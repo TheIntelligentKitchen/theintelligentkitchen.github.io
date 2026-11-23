@@ -1,20 +1,14 @@
 THE SUPER INTELLIGENT KITCHEN — JEFF & CHAT
 
-This is the first website draft for the public GitHub Pages repository.
+This is a complete replacement package for the root of the GitHub Pages repository.
 
-Files:
-- index.html: cookbook homepage
-- styles.css: shared website styling
-- recipes/old-fashioned-bacon-gravy.html
-- recipes/steakhouse-steak-burger-seasoning.html
+Included:
+- Homepage with the selected Jeff & Chat artwork banner and its circular inset.
+- Existing Old-Fashioned Bacon Gravy page.
+- Existing Steakhouse Steak & Burger Seasoning page.
+- New Crock Pot Beef Tips with Rich Gravy page, transcribed from the finalized cookbook PDF.
 
-Publishing:
-Upload the contents of this folder (not the enclosing folder) to the root of the
-GitHub repository named theintelligentkitchen.github.io, on the main branch.
-Keep the existing repository settings: Pages deploy from main / (root).
+Upload the CONTENTS of this folder to the repository root (not the enclosing folder).
+Keep GitHub Pages set to deploy from main / (root).
 
-Important editorial note:
-Only recipe facts available from prior cookbook discussions were included.
-Yield, serving size, and nutrition were not invented where they were unavailable.
-The Chicken & Cornbread Dressing Casserole is intentionally not yet published
-because its full ingredient quantities and directions need to be recovered.
+Editorial note: Only the beef tips recipe has confirmed yield and per-serving nutrition in this update. The other existing pages retain their prior pending notes where yield or nutrition has not yet been established.
