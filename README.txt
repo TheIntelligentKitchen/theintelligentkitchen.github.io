@@ -1,14 +1,15 @@
 THE SUPER INTELLIGENT KITCHEN — JEFF & CHAT
+Website update package: Egg Bites + Stir-Fry
 
-This is a complete replacement package for the root of the GitHub Pages repository.
+Upload the contents of this ZIP to the ROOT of the existing GitHub Pages repository.
+Keep the folder paths intact:
+- index.html
+- styles.css
+- assets/...
+- recipes/...
 
-Included:
-- Homepage with the selected Jeff & Chat artwork banner and its circular inset.
-- Existing Old-Fashioned Bacon Gravy page.
-- Existing Steakhouse Steak & Burger Seasoning page.
-- New Crock Pot Beef Tips with Rich Gravy page, transcribed from the finalized cookbook PDF.
+This package includes the existing three recipe pages and cover artwork, plus two new recipe pages.
+It also makes homepage category labels larger and bolder.
 
-Upload the CONTENTS of this folder to the repository root (not the enclosing folder).
-Keep GitHub Pages set to deploy from main / (root).
-
-Editorial note: Only the beef tips recipe has confirmed yield and per-serving nutrition in this update. The other existing pages retain their prior pending notes where yield or nutrition has not yet been established.
+IMPORTANT RECIPE STATUS:
+The egg bites and stir-fry pages are marked as kitchen-test drafts. The egg-bite nutrition is an estimate per bite. Stir-fry nutrition is estimated for the chicken version only. Confirm the recipes by cooking them before treating the pages and nutrition as finalized.
